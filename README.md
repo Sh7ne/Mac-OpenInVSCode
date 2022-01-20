@@ -16,3 +16,4 @@ Installation and usage:
 
 Thanks to the original dev
 
+#import "Finder.h" //copy is from here: https://github.com/davedelong/BetterInfo/blob/master/Finder.h
