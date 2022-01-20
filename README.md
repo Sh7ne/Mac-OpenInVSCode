@@ -3,7 +3,6 @@
 
 Installation and usage: 
 - Download [app](https://github.com/sozercan/OpenInCode/releases/download/v1.0/OpenInCodeDark.zip)
-(if using [VS Code Insiders](https://code.visualstudio.com/insiders), download [this](https://github.com/sozercan/OpenInCode/releases/download/v1.0/OpenInCodeInsiders.app.zip) instead)
 - Move Open in Code.app to /Applications
 - Go to /Applications
 - While holding Command key, drag Open in Code.app to Finder toolbar
