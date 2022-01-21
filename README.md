@@ -5,7 +5,7 @@ Installation and usage:
 - Download [App](https://github.com/Sh7ne/Mac-OpenInVSCode/releases/)
 - Move Open in Code.app to /Applications/Utilities
 - Go to /Applications/Utilities
-- Right-click Open in Code.app and click Open. When the security dialog prompt appears, click Open.
+- Right-click Open in VSCode.app and click Open. When the security dialog prompt appears, click Open.
 - Once Visual Studio Code new window is opened, close it.
 - While holding Command key, drag Open in Code.app to Finder toolbar
 - Navigate to a folder you want to open with Visual Studio Code
